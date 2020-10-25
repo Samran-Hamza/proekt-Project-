@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>iut</groupId>
-    <artifactId>bataillenavale</artifactId>
+    <artifactId>samranhamza</artifactId>
     <version>1.0-SNAPSHOT</version>
    <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -36,7 +36,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>iut.BatailleNavale</mainClass>
+                            <mainClass>iut.samranhamza</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
