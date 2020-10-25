@@ -1,6 +1,6 @@
 package iut;
 
-public class BatailleNavale {
+public class Hamzasamran {
 
     public boolean isFinished() {
         return hasSurrender;
