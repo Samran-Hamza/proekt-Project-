@@ -46,7 +46,7 @@ public class BatailleNavale {
         //return haveBoat;
     }
     public static void main(String[] args) {
-		System.out.println("bataille navale");
+		System.out.println("samranhamza");
 	}
 
     private boolean hasSurrender = false;
